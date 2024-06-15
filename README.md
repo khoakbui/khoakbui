@@ -1,5 +1,8 @@
-### Hi there 👋
+#Khoa Bui
 
+**'Digital Craftsman'**
+
+I am currently a third year Computer Science major at Georgia Tech concentrating in Info/Internetwork & Intelligence. I am passionate about programming and is proficient with Java, C and assembly which I have been implementing throughout several of my works and personal projects. I am always eager to learn as well as expand my network. Seeking opportunities for growth and collaboration. 
 <!--
 **khoakbui/khoakbui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
