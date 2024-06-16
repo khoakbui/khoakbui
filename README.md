@@ -1,12 +1,13 @@
 # Khoa Bui
 
- #### ```Digital Craftsman```
+#### ```Digital Craftsman```
 📚 CS @ [Georgia Tech](https://www.cc.gatech.edu) concentrating in **_Info/Internetwork & Intelligence_** 
 <br/>💻 Passionate about programming and a tech enthusiast
 <br/>☕️ Proficient with: **_Java, JavaScript, C, Assembly, Python_**
 <br/>👋 Let's connect on [LinkedIn](https://www.linkedin.com/in/khoa-bui-1717781b4/)
 <br/>
 #
+
 ### **Languages and Tools**
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -24,9 +25,14 @@
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<br/>
+
+#
+
+### 📊 Stats
+
+![Khoa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khoakbui&show_icons=true&theme=merko)
 <br />
-
-
 <!--
 **khoakbui/khoakbui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
