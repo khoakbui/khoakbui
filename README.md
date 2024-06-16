@@ -6,6 +6,7 @@
 <br/>☕️ Proficient with: **_Java, JavaScript, C, Assembly, Python_**
 <br/>👋 Let's connect on [LinkedIn](https://www.linkedin.com/in/khoa-bui-1717781b4/)
 <br/>
+
 #
 
 ### **Languages and Tools**
@@ -25,6 +26,7 @@
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<br/>
 <br/>
 
 #
