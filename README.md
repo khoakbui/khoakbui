@@ -1,7 +1,7 @@
 # Khoa Bui
 
 #### ```Digital Craftsman```
-📚 CS @ [Georgia Tech](https://www.cc.gatech.edu) concentrating in **_Info/Internetwork & Intelligence_** 
+📚 CS @ [Georgia Tech](https://www.cc.gatech.edu) concentrating in **_Info/Internetworks & Intelligence_** 
 <br/>💻 Passionate about programming and a tech enthusiast
 <br/>☕️ Proficient with: **_Java, JavaScript, C, Assembly, Python_**
 <br/>👋 Let's connect on [LinkedIn](https://www.linkedin.com/in/khoa-bui-1717781b4/)
