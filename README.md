@@ -3,7 +3,7 @@
 #### ```Digital Craftsman```
 📚 CS @ [Georgia Tech](https://www.cc.gatech.edu) concentrating in **_Info/Internetworks & Intelligence_** 
 <br/>💻 Passionate about programming and a tech enthusiast
-<br/>☕️ Proficient with: **_Java, JavaScript, C, Assembly, Python_**
+<br/>☕️ Proficient with: **_Python, Swift, Java, JavaScript, C, Assembly_**
 <br/>👋 Let's connect on [LinkedIn](https://www.linkedin.com/in/khoa-bui-1717781b4/)
 <br/>
 
@@ -14,6 +14,7 @@
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="Swift" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -26,6 +27,7 @@
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="Xcode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" />
 <br/>
 <br/>
 
