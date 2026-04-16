@@ -78,14 +78,6 @@ I’m especially interested in roles where I can:
 
 ---
 
-## 📫 Contact
-
-- 📧 Email: buikhanhkhoa.official@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/khoa-bui-24k
-- 💻 GitHub: https://github.com/khoakbui  
-
----
-
 ## ⚡ Quick Highlights
 
 - Strong foundation in algorithms and problem solving  
