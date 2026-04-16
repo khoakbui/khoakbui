@@ -1,7 +1,7 @@
 # Hi, I'm Khoa Bui 👋
 
 🎓 Computer Science @ Georgia Tech (Class of 2026)  
-💼 Seeking Software Engineering Internships / Full-time Positions 
+💼 Seeking Software Engineering Internships / Full-time Positions  
 📍 Atlanta, GA  
 
 ---
