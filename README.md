@@ -1,40 +1,91 @@
-# Khoa Bui
+# Hi, I'm Khoa Bui 👋
 
-#### ```Digital Craftsman```
-📚 CS @ [Georgia Tech](https://www.cc.gatech.edu) concentrating in **_Info/Internetworks & Intelligence_** 
-<br/>💻 Passionate about programming and a tech enthusiast
-<br/>☕️ Proficient with: **_Python, Swift, Java, JavaScript, C, Assembly_**
-<br/>👋 Let's connect on [LinkedIn](https://www.linkedin.com/in/khoa-bui-1717781b4/)
-<br/>
+🎓 Computer Science @ Georgia Tech (Class of 2026)  
+💼 Seeking Software Engineering Internships / Full-time Positions 
+📍 Atlanta, GA  
 
-#
+---
 
-### **Languages and Tools**
+## 🚀 About Me
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Swift" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="Xcode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" />
-<img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-<img align="left" alt="Dart" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-<br/>
-<br/>
+I’m a Computer Science student at Georgia Tech with thread in __Info Internetworks & Intelligence__. I have hands-on experience across AI, machine learning, and systems, with a strong foundation in algorithms and problem solving.
 
-#
+I enjoy working on projects that combine theory with real-world impact—especially in areas like probabilistic reasoning, optimization, and decision-making under uncertainty.
 
-### 📊 Stats
+---
 
-![Khoa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khoakbui&show_icons=true&theme=merko)
-<br />
-  
+## 🧠 Technical Skills
+
+**Languages:**  
+_Python, Java, C, Swift, Dart, Assembly_
+
+**Frontend:**  
+_React, JavaScript, HTML/CSS_
+
+**Frameworks & Libraries:**  
+_NumPy, Scikit-learn, PyTorch, JAX_  
+
+**Tools:**  
+_Git, Linux, Docker (basic), VS Code_  
+
+**Core Concepts:**  
+- Data Structures & Algorithms (CS 1332)
+- Discrete Mathematics (graph theory, combinatorics, proofs) (CS 2050)
+- Machine Learning & Statistical Modeling (CS4641 / CS 3770)
+- Object-Oriented Design & Software Architecture (CS 2340)
+- Adversarial Search & Game AI (CS 3600)
+- Probability & Optimization (CS 3510)
+- Robotics & Perception (state estimation, sensor modeling) (CS 3630)
+- Full-Stack Development Fundamentals 
+
+---
+
+## 🛠 Featured Project
+
+### 🧩 Adversarial Grid Game AI (Competitive Decision Making Agent)
+Developed an AI agent for a competitive turn-based game involving partial observability and stochastic dynamics.
+
+**Key Contributions:**
+- Built a probabilistic belief model to track hidden state using noisy observations  
+- Designed a decision system combining heuristic evaluation + one-step lookahead  
+- Balanced exploration vs exploitation using expected value of actions  
+- Achieved consistent wins against baseline agents in simulated tournaments  
+
+**Tech:** Python, NumPy, AI Search, Probabilistic Inference  
+
+---
+
+## 📈 Additional Experience
+
+- Implemented machine learning models including regression and classification with performance evaluation (MSE, RMSE, R²)  
+- Built algorithmic solutions (sorting, search, graph algorithms) with attention to efficiency and correctness  
+- Worked with data preprocessing, normalization, and model evaluation pipelines  
+
+---
+
+## 🎯 What I'm Looking For
+
+- Software Engineering Internships / Full-time Positions
+- Frontend / Full Stack Development roles
+- AI / Machine Learning Internships
+
+I’m especially interested in roles where I can:
+- build scalable backend systems  
+- apply machine learning in real-world applications  
+- design intuitive and visually engaging user interfaces  
+
+---
+
+## 📫 Contact
+
+- 📧 Email: buikhanhkhoa.official@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/khoa-bui-24k
+- 💻 GitHub: https://github.com/khoakbui  
+
+---
+
+## ⚡ Quick Highlights
+
+- Strong foundation in algorithms and problem solving  
+- Experience building AI systems from scratch  
+- Comfortable working across theory and implementation  
